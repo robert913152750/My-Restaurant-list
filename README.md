@@ -7,14 +7,14 @@
 **以下皆為在終端機進行，請依照個步驟輸入指定指令**
 
 1. 下載檔案
-   git clone https://github.com/robert913152750/My-Restaurant-list.git
+   > > git clone https://github.com/robert913152750/My-Restaurant-list.git
 2. cd 至專案資料夾
 3. 導入指定 npm 套件
-   npm install
+   > > npm install
 4. 下載 nodemon (若已有可省略此步驟)
-   npm install -g nodemon
+   > > npm install -g nodemon
 5. 開啟本地伺服器
-   nodemon app.js
+   > > nodemon app.js
 6. 開啟瀏覽器輸入 http://localhost:3000/
 
 ## Features-專案功能
